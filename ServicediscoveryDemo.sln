@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicediscoveryDemo", "ServicediscoveryDemo\ServicediscoveryDemo.csproj", "{2CCF201C-8705-40DE-A103-EFEE164042BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicediscoveryDemo.Calc", "ServicediscoveryDemo.Calc\ServicediscoveryDemo.Calc.csproj", "{F19684D9-3B8B-4A63-8F94-0F27D0FDF7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCF201C-8705-40DE-A103-EFEE164042BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCF201C-8705-40DE-A103-EFEE164042BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCF201C-8705-40DE-A103-EFEE164042BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCF201C-8705-40DE-A103-EFEE164042BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19684D9-3B8B-4A63-8F94-0F27D0FDF7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19684D9-3B8B-4A63-8F94-0F27D0FDF7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19684D9-3B8B-4A63-8F94-0F27D0FDF7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19684D9-3B8B-4A63-8F94-0F27D0FDF7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6481B4A5-4F0E-4AE6-B42A-C04EF1F9C639}
+	EndGlobalSection
+EndGlobal

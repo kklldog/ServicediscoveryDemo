@@ -1,0 +1,6 @@
+@ServicediscoveryDemo.Calc_HostAddress = http://localhost:5089
+
+GET {{ServicediscoveryDemo.Calc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
